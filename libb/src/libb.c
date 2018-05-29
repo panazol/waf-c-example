@@ -3,6 +3,10 @@
 #include "liba/liba.h"
 #include "libb/libb.h"
 
+void libb_how_are_you() {
+  fprintf(stdout, "%s\n", "here are you from libb");
+}
+
 
 void libb_hello() {
   fprintf(stdout, "%s\n", "goodbye from libb");
