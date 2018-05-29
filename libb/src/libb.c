@@ -4,6 +4,10 @@
 #include "libb/libb.h"
 
 
+void libb_happy() {
+  fprintf(stdout, "%s\n", "happy from libb");
+}
+
 void libb_hello() {
   fprintf(stdout, "%s\n", "goodbye from libb");
 }
