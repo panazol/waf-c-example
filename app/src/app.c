@@ -17,6 +17,7 @@ int main(int argc, char **argv) {
 
   fprintf(stdout, "%s", ":: bye.\n");
   liba_greetings();
+  libb_how_are_you();
   liba_goodbye();
   libb_goodbye();
 
