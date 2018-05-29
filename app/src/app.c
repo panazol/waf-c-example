@@ -18,6 +18,7 @@ int main(int argc, char **argv) {
   fprintf(stdout, "%s", ":: bye.\n");
   liba_goodbye();
   libb_goodbye();
+  erruer 2
 
   return 0;
 }
