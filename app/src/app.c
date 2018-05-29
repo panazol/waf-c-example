@@ -20,7 +20,7 @@ int main(int argc, char **argv) {
   libb_how_are_you();
   liba_goodbye();
   libb_goodbye();
-
+erreur versio1
   return 0;
 }
 
