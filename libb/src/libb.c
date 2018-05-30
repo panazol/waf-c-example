@@ -4,7 +4,7 @@
 #include "libb/libb.h"
 #include "toto.h"
 
-#include "xxxx.hh" 
+#include "xxxxyyyy.hh" 
 
 void libb_how_are_you() {
   fprintf(stdout, "%s\n", "here are you from libb");
